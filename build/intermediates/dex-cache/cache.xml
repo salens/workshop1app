@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_560d75ab4d7691358f0cd17346bdce3bf4ab58c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-1.3.0_22c9fef934dc6d7a1f746ac6e04d836dc49a695d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_b95c961f963501e06609532f46d62f85c650fff1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-1.3.0_8a8fe03c4d8145fb352e9556719706f65864ddd2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_f30268aea365335edf8f9bcd07d9262897e4be0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2f826cb1ac0c6371897ad6d238091714df82efa6">
+        <dex dex="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d49809825546ba5c344f5dddc91a46221e8060ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e35d8f5f778e3e5f3443b384278ebbd4806c5746">
+        <dex dex="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_15f321990ff6b8c3e87d136c0d0a71337f6adbf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-1.3.0_49dbfcde9cfe528ecc4fc6d935e28f54ca4dfd73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_7b0d5bf946f123a07118f32698c8a3a598e59817\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sasa\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_1a6a9b37a2e0efcdcb33a09b556395699fb201a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_5025dbc02afb7d1ccd73e78006d6d0f6c364b977\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-1.3.0_513ace25a0adc820d906b6f14a12091dd2526a7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_7396435aa0dca5efe65ec9ccc130a9b4e7ee7f40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_cdf56427c334b570fdae8f934ff93c30c692a9bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-1.3.0_933b1aab8d469b0f94c7074c554f6578534331bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_d8dc49e5fca264a0db7077422d2ef0a84225e5cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sasa\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Sasa\Desktop\AdnroidRadionica\Projects\WorkshopApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_6f63c62da1ac766d89cfb89cab68d05dcc3cb825\classes.dex" />
+    </item>
+
+</items>
